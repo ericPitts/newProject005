@@ -1,2 +1,2 @@
 # newProject005
-sbt/scalawith java
+sbt/scala with java
